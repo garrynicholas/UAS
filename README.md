@@ -8,6 +8,7 @@
 - Mahasiswa
 - Sepeda
 - Matematika
+- MobilKonstruktor
 - Bank
 - Lingkaran
 - Sepeda
