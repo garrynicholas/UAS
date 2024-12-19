@@ -11,7 +11,7 @@
 - MobilKonstruktor
 - Bank
 - Lingkaran
-- Sepeda
+- Sepeda (Encapsulation)
 - SepedaGunung
 - MatematikaCanggih
 - MatematikaCanggihBanget
