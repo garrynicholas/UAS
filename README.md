@@ -1,8 +1,6 @@
----
-
 # Daftar Tugas UAS - Gunawan Widya Nugraha (1A)
 
-Berikut adalah daftar folder untuk tugas Ujian Akhir Semester (UAS) beserta penjelasannya. Setiap folder mencakup latihan atau implementasi konsep tertentu. 
+Berikut adalah daftar folder untuk tugas Ujian Akhir Semester (UAS) beserta penjelasannya. Setiap folder mencakup latihan atau implementasi konsep tertentu.
 
 ## Daftar Tugas dan Penjelasan:
 
@@ -36,37 +34,34 @@ Berikut adalah daftar folder untuk tugas Ujian Akhir Semester (UAS) beserta penj
 10. **Bank (Latihan)**  
     Latihan membuat simulasi sistem perbankan sederhana.
 
-11. **Lingkaran**  
-    Program untuk menghitung luas dan keliling lingkaran berdasarkan radius.
-
-12. **Sepeda-Encapsulation**  
+11. **Sepeda-Encapsulation**  
     Implementasi konsep enkapsulasi pada kelas Sepeda.
 
-13. **SepedaGunung**  
+12. **SepedaGunung**  
     Kelas turunan dari Sepeda dengan fitur tambahan untuk sepeda gunung.
 
-14. **MatematikaCanggih (Latihan)**  
+13. **MatematikaCanggih (Latihan)**  
     Latihan membuat kelas dengan operasi matematika yang lebih kompleks.
 
-15. **MatematikaCanggihBanget (Latihan)**  
+14. **MatematikaCanggihBanget (Latihan)**  
     Latihan lanjutan dengan operasi matematika tingkat lanjut.
 
-16. **Mobil-Polymorphism**  
+15. **Mobil-Polymorphism**  
     Implementasi polimorfisme pada kelas Mobil.
 
-17. **Sepeda-Polymorphism**  
+16. **Sepeda-Polymorphism**  
     Implementasi polimorfisme pada kelas Sepeda.
 
-18. **Matematika-Overloading**  
+17. **Matematika-Overloading**  
     Contoh penerapan metode overloading dalam operasi matematika.
 
-19. **Budi-Joko-PaketBeraksi**  
+18. **Budi-Joko-PaketBeraksi**  
     Simulasi interaksi antar objek menggunakan paket.
 
-20. **InterfaceLampu**  
+19. **InterfaceLampu**  
     Implementasi interface untuk simulasi sistem lampu.
 
-21. **InterfaceAC (Latihan)**  
+20. **InterfaceAC (Latihan)**  
     Latihan implementasi interface untuk sistem AC.
 
 ---
